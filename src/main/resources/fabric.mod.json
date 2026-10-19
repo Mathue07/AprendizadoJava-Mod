@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.modteste.ModDeTeste"
+			"net.TestMod.TestMod"
 		],
 		"fabric-datagen": [
-			"net.modteste.ModDeTesteDataGenerator"
+			"net.TestMod.TestModDataGenerator"
 		],
 		"client": [
-			"net.modteste.ModDeTesteClient"
+			"net.TestMod.TestModClient"
 		]
 	},
 	"mixins": [
